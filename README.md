@@ -553,7 +553,7 @@ git clone https://github.com/sun-mc-dev/SunTools.git
 2. Build with Maven
 
 ```bash
-cd Tools
+cd SunTools
 mvn clean install
 ```
 
