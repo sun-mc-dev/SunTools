@@ -1,4 +1,4 @@
-# Tools - Comprehensive Minecraft Plugin Development Framework
+# SunTools - Comprehensive Minecraft Plugin Development Framework
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/Java-21-blue.svg)](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
